@@ -1,0 +1,29 @@
+# 아두이노/ESP32 빌드 결과물 (컴파일된 바이너리 등)
+build/
+bin/
+*.elf
+*.hex
+*.bin
+
+# 라이브러리 및 임시 파일
+.lock-wscript
+.waf-*-*
+.waf3-*-*
+.config/
+node_modules/
+
+# VS Code 설정 관련
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# OS 관련 임시 파일
+.DS_Store
+Thumbs.db
+
+# 백업 및 로그 파일
+*.bak
+*.log
