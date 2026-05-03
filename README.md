@@ -1,4 +1,4 @@
-# Embedded-Project
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Embedded-Project&fontSize=80&animation=fadeIn)
 
 # Project 주제: 비접촉식 스마트 쓰레기통
 ## 팀명: 돈터치미
